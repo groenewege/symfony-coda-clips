@@ -1,24 +1,28 @@
-Coda Clip Library for Symfony 1.4 / doctrine 1.2 by Gunther Groenewege
-===============================================
+Coda Clip Library for Symfony / doctrine
+========================================
 
-A collection of symfony / doctrine snippets for use with Panic's Coda app
-------------------------------------------------------------
+A collection of symfony 1.4 / doctrine 1.2 snippets for use with Panic's Coda app
+---------------------------------------------------------------------------------
 
-- doctrine.clips
-- sf-config.clips
-- sf-controller.clips
-- sf-form.clips
-- sf-mail.clips
-- sf-pager.clips
-- sf-request.clips
-- sf-response.clips
-- sf-route.clips
-- sf-set:get.clips
-- sf-singletons.clips
-- sf-test-f.clips
-- sf-tests-u.clips
-- sf-user.clips
-- sf-validationschema.clips
-- sf-view.clips
-- sf-widget.clips
-- sf-widgetschema.clips
+The different snippets are organised by section :
+
+- doctrine
+- config
+- controller
+- form
+- mail
+- pager
+- request
+- response
+- route
+- set:get
+- singletons
+- test-f
+- tests-u
+- user
+- validationschema
+- view
+- widget
+- widgetschema
+
+Inspired by the @everzet textmate [bundle](https://github.com/everzet/sfSymfony-tmbundle).
