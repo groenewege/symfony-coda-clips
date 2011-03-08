@@ -1,4 +1,4 @@
-Coda Clip Library for Symfony / doctrine
+Coda Clip Library for Symfony / Doctrine
 ========================================
 
 A collection of symfony 1.4 / doctrine 1.2 snippets for use with Panic's Coda app
